@@ -1,0 +1,28 @@
+header{
+    text-align: center;
+    background-color: #1b163dc0;
+    padding: 20px;
+    color: white;
+}
+.title{
+    margin: 0;
+    font-size: 18pt;
+}
+.wrapper{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+img{
+    width: 300px;
+}
+h1{
+    font-size: 30pt;
+}
+p{
+    width: 60%;
+    text-align: justify;
+    font-size: 14pt;
+    margin-top: 20px;
+}
